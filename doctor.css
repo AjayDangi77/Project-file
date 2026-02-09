@@ -1,0 +1,54 @@
+.container {
+
+            width: 1000px;
+            height: 800PX;
+            margin: 20px auto;
+            background: rgb(245, 245, 247);
+            padding: 20px;
+              }
+.para{
+    display: flex;
+    justify-content: center;
+
+}
+.bos{
+    display: flex;
+    justify-content: center;
+}
+.bo{
+    height: 600px;
+    width: 500px;
+}
+.box{
+
+    margin-top: 50PX;
+    height: 580PX;
+    width: 450px;
+}
+ h2{
+    margin-left: 140px;
+
+ }
+ hr{
+    color: red;
+    width: 70%;
+    margin-left: 120px;
+ }
+ .m{
+    margin-top: 30px;
+    margin-left: 50px;
+ }
+ .Gender{
+    margin-right: 40px;
+ }
+ .Query{
+    margin-top: 30px;
+ }
+ .button{
+    display: flex;
+    justify-content: center;
+ }
+ .but{
+    font-size: 30px;
+    margin-top: 40px;
+ }
